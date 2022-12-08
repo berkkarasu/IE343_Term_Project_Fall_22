@@ -1,4 +1,4 @@
-# IE343_Term_Project_Fall_22
+# Album Optimization
 French Lebanese trumpeter Ibrahim Maalouf went in studio to record his new album.  The company wants you to determine which songs will be included in Ibrahim Maalouf’s next album.
 French Lebanese trumpeter Ibrahim Maalouf went in studio to record his new album. Throughout the recording sessions, he and his band recorded 50 songs in total. 
 These songs have different durations as the nature of the music. Mi’ster Productions Label executives imply that the new album should be at most 30 minutes, and each second that the total duration of album missing decreases the value of the album by 0.02 points. 
