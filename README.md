@@ -9,7 +9,7 @@ Note that there is a cost about being too far from the expected duration. Design
 
 In the second part of the project, the label has conducted a second market research to determine the track list of the album.
 For example, if there is value of 3 from song 1 to song 3, that means focus groups thinks that if you listen song 3 after song 1, you are likely to enjoy 3 out of 10. 
-Here, as a consultant, you have been asked to solve this track list problem with an exact solution. The only rule that company has been asked is, they want to have the most valuable song that has been selected as the first song and second most valuable song that has been selected as the last song.
+Here, as a consultant, you have been asked to solve this track list problem with a relevant heuristic. The only rule that company has been asked is, they want to have the most valuable song that has been selected as the first song and second most valuable song that has been selected as the last song.
 
 You can find the relevant dataset on “term_project_sequential_data.csv” file.
 Please be informed that you need to give a complete report about the coding approach, the explanation of your algorithms with steps, any decision that you have made as well as the numerical results and CPU usage, with the benchmark in the first step of the algorithm.
